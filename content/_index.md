@@ -1,27 +1,14 @@
 ---
-title: Home
----
+title: Na základì jedné z úloh v této lekci jsem se rozhodla vìnovat se ve svém semestrálním projektu osobnosti Vinta Cerfa, který je zván „otcem internetu“. Ráda bych ètenáøe své práce seznámila se životem a prací této osobnosti (pøedevším na meziplanetárním internetu), a pøedložila mu nìkteré z jeho výrokù, s nimiž jsem se pøi zpracování úlohy setkala. 
 
-# Hello World! (It works!)
+Jak jsem napsala výše, Vinton Gray Cerf je považován z „otce internetu“. Je to americký informatik a vítìz Turingovy ceny pro rok 2004, který stojí spoleènì s Bobem Kahnem za vytvoøením komunikaèního protokolu TCP/IP, jenž se stal pilíøem dnešní celosvìtové sítì. Jeho souèasným zamìøením je však budování takzvaného meziplanetárního internetu. Vint Cerf dnes pracuje ve spoleènosti Google v pozici viceprezidenta a technologického evangelisty. 
 
-This are the contents of the Hugo start website front page.
+Pøi své návštìvì v Praze, kde hledal zajímavé lidi pro spolupráci se spoleèností Google, se zmínil o své práci ohlednì meziplanetárního internetu. Podle nìj je potøeba, aby spolu družice, sondy a pozemní stanice, které v souèasnosti vysílá jak Evropa, tak NASA do vesmíru, mohly lépe komunikovat. 
 
-## Something to read: Sonnet LXVI.
+https://www.brainyquote.com/authors/vint_cerf
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+https://cs.wikipedia.org/wiki/Vint_Cerf
 
+https://internethalloffame.org/inductees/vint-cerf
+
+https://www.idnes.cz/technet/internet/rozhovor-meziplanetarni-internet-je-realny-projekt-rika-vinton-cerf.A070406_201357_sw_internet_pka
